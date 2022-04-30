@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANZ.DataAccess", "ANZ.DataA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANZ.Services", "ANZ.Services\ANZ.Services.csproj", "{6A3D74F0-954A-4122-AC8C-A07C0A9FE7E8}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ANZ.Db", "ANZ.Db\ANZ.Db.sqlproj", "{E820F76A-94EC-4034-A8A6-62D6C773C289}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,12 @@ Global
 		{6A3D74F0-954A-4122-AC8C-A07C0A9FE7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A3D74F0-954A-4122-AC8C-A07C0A9FE7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A3D74F0-954A-4122-AC8C-A07C0A9FE7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E820F76A-94EC-4034-A8A6-62D6C773C289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E820F76A-94EC-4034-A8A6-62D6C773C289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E820F76A-94EC-4034-A8A6-62D6C773C289}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E820F76A-94EC-4034-A8A6-62D6C773C289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E820F76A-94EC-4034-A8A6-62D6C773C289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E820F76A-94EC-4034-A8A6-62D6C773C289}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

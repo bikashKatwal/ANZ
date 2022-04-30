@@ -1,0 +1,87 @@
+30/04/2022 5:10:08 PM	This log contains information about the import schema operation into project 'ANZ.Db' on computer 'DESKTOP-VLM32U3' by user 'bikas'.
+30/04/2022 5:10:08 PM	Import of database schema has started.
+30/04/2022 5:10:11 PM	Gathering database credentials
+30/04/2022 5:10:11 PM	Gathering database options
+30/04/2022 5:10:11 PM	Gathering generic database scoped configuration option
+30/04/2022 5:10:11 PM	Gathering users
+30/04/2022 5:10:11 PM	Gathering roles
+30/04/2022 5:10:11 PM	Gathering application roles
+30/04/2022 5:10:11 PM	Gathering role memberships
+30/04/2022 5:10:11 PM	Gathering filegroups
+30/04/2022 5:10:12 PM	Gathering full-text catalogs
+30/04/2022 5:10:12 PM	Gathering assemblies
+30/04/2022 5:10:12 PM	Gathering certificates
+30/04/2022 5:10:12 PM	Gathering asymmetric keys
+30/04/2022 5:10:12 PM	Gathering symmetric keys
+30/04/2022 5:10:12 PM	Gathering encrypted symmetric keys
+30/04/2022 5:10:12 PM	Gathering schemas
+30/04/2022 5:10:12 PM	Gathering XML schema collections
+30/04/2022 5:10:12 PM	Gathering user-defined data types
+30/04/2022 5:10:12 PM	Gathering user-defined types
+30/04/2022 5:10:12 PM	Gathering table types
+30/04/2022 5:10:12 PM	Gathering unique keys for table types
+30/04/2022 5:10:12 PM	Gathering primary keys for table types
+30/04/2022 5:10:12 PM	Gathering indexes for table types
+30/04/2022 5:10:12 PM	Gathering check constraints for table types
+30/04/2022 5:10:12 PM	Gathering default constraints for table types
+30/04/2022 5:10:12 PM	Gathering partition functions
+30/04/2022 5:10:12 PM	Gathering partition schemes
+30/04/2022 5:10:12 PM	Gathering functions
+30/04/2022 5:10:12 PM	Gathering encrypted functions
+30/04/2022 5:10:12 PM	Gathering aggregates
+30/04/2022 5:10:12 PM	Gathering procedures
+30/04/2022 5:10:12 PM	Gathering encrypted procedures
+30/04/2022 5:10:12 PM	Gathering tables
+30/04/2022 5:10:12 PM	Gathering primary keys
+30/04/2022 5:10:12 PM	Gathering unique constraints
+30/04/2022 5:10:12 PM	Gathering foreign keys
+30/04/2022 5:10:12 PM	Gathering default constraints
+30/04/2022 5:10:12 PM	Gathering check constraints
+30/04/2022 5:10:12 PM	Gathering views
+30/04/2022 5:10:12 PM	Gathering encrypted views
+30/04/2022 5:10:12 PM	Gathering indexes
+30/04/2022 5:10:12 PM	Gathering statistics
+30/04/2022 5:10:12 PM	Gathering full-text index stoplists
+30/04/2022 5:10:12 PM	Gathering search property lists
+30/04/2022 5:10:12 PM	Gathering search properties
+30/04/2022 5:10:12 PM	Gathering full-text indexes
+30/04/2022 5:10:12 PM	Gathering column store indexes
+30/04/2022 5:10:12 PM	Gathering spatial indexes
+30/04/2022 5:10:12 PM	Gathering XML indexes
+30/04/2022 5:10:12 PM	Gathering Selective XML indexes
+30/04/2022 5:10:12 PM	Gathering encrypted triggers
+30/04/2022 5:10:12 PM	Gathering triggers
+30/04/2022 5:10:12 PM	Gathering encrypted and clr ddl triggers
+30/04/2022 5:10:12 PM	Gathering ddl triggers
+30/04/2022 5:10:12 PM	Creating edge constraints
+30/04/2022 5:10:12 PM	Gathering synonyms
+30/04/2022 5:10:12 PM	Gathering defaults
+30/04/2022 5:10:12 PM	Gathering data constraint uddt bindings
+30/04/2022 5:10:12 PM	Gathering rules
+30/04/2022 5:10:12 PM	Gathering data constraint uddt bindings
+30/04/2022 5:10:12 PM	Gathering message types
+30/04/2022 5:10:12 PM	Gathering queues
+30/04/2022 5:10:12 PM	Gathering contracts
+30/04/2022 5:10:12 PM	Gathering services
+30/04/2022 5:10:12 PM	Gathering event notifications
+30/04/2022 5:10:12 PM	Gathering remote service bindings
+30/04/2022 5:10:12 PM	Gathering broker priorities
+30/04/2022 5:10:12 PM	Gathering signatures
+30/04/2022 5:10:12 PM	Gathering data compression options
+30/04/2022 5:10:12 PM	Gathering sequence types
+30/04/2022 5:10:12 PM	Gathering security policies
+30/04/2022 5:10:12 PM	Gather column encryption keys
+30/04/2022 5:10:12 PM	Gathering column master keys
+30/04/2022 5:10:12 PM	Gathering external data sources
+30/04/2022 5:10:12 PM	Gathering external file formats
+30/04/2022 5:10:12 PM	Gathering external tables
+30/04/2022 5:10:12 PM	Gathering extended properties
+30/04/2022 5:10:12 PM	Gathering assemblies
+30/04/2022 5:10:12 PM	Gathering credentials
+30/04/2022 5:10:12 PM	Gathering logins
+30/04/2022 5:10:12 PM	Gathering server audits
+30/04/2022 5:10:13 PM	Scanning project for duplicate elements
+30/04/2022 5:10:13 PM	Finished duplicate element processing
+30/04/2022 5:10:13 PM	Finished importing database.
+30/04/2022 5:10:13 PM	A summary of the import was saved to the following location: C:\Projects\ANZ\ANZ.Db\Import Schema Logs\ANZ.Db_20220430071008.log
+30/04/2022 5:10:13 PM	Click Finish to continue...
