@@ -1,0 +1,10 @@
+C:\Projects\ANZ\ANZ.Domain\bin\Release\netcoreapp3.1\ANZ.Domain.deps.json
+C:\Projects\ANZ\ANZ.Domain\bin\Release\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\ANZ\ANZ.Domain\bin\Release\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\ANZ\ANZ.Domain\obj\Release\netcoreapp3.1\ANZ.Domain.csproj.AssemblyReference.cache
+C:\Projects\ANZ\ANZ.Domain\obj\Release\netcoreapp3.1\ANZ.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ANZ\ANZ.Domain\obj\Release\netcoreapp3.1\ANZ.Domain.AssemblyInfoInputs.cache
+C:\Projects\ANZ\ANZ.Domain\obj\Release\netcoreapp3.1\ANZ.Domain.AssemblyInfo.cs
+C:\Projects\ANZ\ANZ.Domain\obj\Release\netcoreapp3.1\ANZ.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ANZ\ANZ.Domain\obj\Release\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\ANZ\ANZ.Domain\obj\Release\netcoreapp3.1\ANZ.Domain.pdb

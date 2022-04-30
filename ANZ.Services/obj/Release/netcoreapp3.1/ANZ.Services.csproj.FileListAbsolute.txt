@@ -1,0 +1,15 @@
+C:\Projects\ANZ\ANZ.Services\bin\Release\netcoreapp3.1\ANZ.Services.deps.json
+C:\Projects\ANZ\ANZ.Services\bin\Release\netcoreapp3.1\ANZ.Services.dll
+C:\Projects\ANZ\ANZ.Services\bin\Release\netcoreapp3.1\ANZ.Services.pdb
+C:\Projects\ANZ\ANZ.Services\bin\Release\netcoreapp3.1\ANZ.DataAccess.dll
+C:\Projects\ANZ\ANZ.Services\bin\Release\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\ANZ\ANZ.Services\bin\Release\netcoreapp3.1\ANZ.DataAccess.pdb
+C:\Projects\ANZ\ANZ.Services\bin\Release\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\ANZ\ANZ.Services\obj\Release\netcoreapp3.1\ANZ.Services.csproj.AssemblyReference.cache
+C:\Projects\ANZ\ANZ.Services\obj\Release\netcoreapp3.1\ANZ.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ANZ\ANZ.Services\obj\Release\netcoreapp3.1\ANZ.Services.AssemblyInfoInputs.cache
+C:\Projects\ANZ\ANZ.Services\obj\Release\netcoreapp3.1\ANZ.Services.AssemblyInfo.cs
+C:\Projects\ANZ\ANZ.Services\obj\Release\netcoreapp3.1\ANZ.Services.csproj.CoreCompileInputs.cache
+C:\Projects\ANZ\ANZ.Services\obj\Release\netcoreapp3.1\ANZ.Services.csproj.CopyComplete
+C:\Projects\ANZ\ANZ.Services\obj\Release\netcoreapp3.1\ANZ.Services.dll
+C:\Projects\ANZ\ANZ.Services\obj\Release\netcoreapp3.1\ANZ.Services.pdb
