@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ANZ.DataAccess\ANZ.DataAccess.csproj" />
+    <ProjectReference Include="..\ANZ.Domain\ANZ.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

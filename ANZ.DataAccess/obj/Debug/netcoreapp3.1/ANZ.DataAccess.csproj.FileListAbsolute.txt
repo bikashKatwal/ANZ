@@ -1,0 +1,39 @@
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.DataAccess.deps.json
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.DataAccess.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.DataAccess.pdb
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.csproj.AssemblyReference.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.AssemblyInfo.cs
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.csproj.CopyComplete
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.pdb
+C:\Projects\Interview Test\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.DataAccess.deps.json
+C:\Projects\Interview Test\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.DataAccess.dll
+C:\Projects\Interview Test\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.DataAccess.pdb
+C:\Projects\Interview Test\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\Interview Test\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\Interview Test\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.csproj.AssemblyReference.cache
+C:\Projects\Interview Test\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Interview Test\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\Interview Test\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.AssemblyInfo.cs
+C:\Projects\Interview Test\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\Interview Test\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.csproj.CopyComplete
+C:\Projects\Interview Test\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.dll
+C:\Projects\Interview Test\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.pdb
+C:\Projects\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.DataAccess.deps.json
+C:\Projects\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.DataAccess.dll
+C:\Projects\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.DataAccess.pdb
+C:\Projects\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\ANZ\ANZ.DataAccess\bin\Debug\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.csproj.AssemblyReference.cache
+C:\Projects\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.AssemblyInfo.cs
+C:\Projects\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.csproj.CopyComplete
+C:\Projects\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.dll
+C:\Projects\ANZ\ANZ.DataAccess\obj\Debug\netcoreapp3.1\ANZ.DataAccess.pdb

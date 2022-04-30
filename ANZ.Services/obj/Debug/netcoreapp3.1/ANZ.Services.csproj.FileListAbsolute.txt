@@ -1,0 +1,45 @@
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Services.deps.json
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Services.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Services.pdb
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.csproj.AssemblyReference.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.AssemblyInfoInputs.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.AssemblyInfo.cs
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.csproj.CoreCompileInputs.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.pdb
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.csproj.CopyComplete
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.DataAccess.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.DataAccess.pdb
+C:\Projects\Interview Test\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Services.deps.json
+C:\Projects\Interview Test\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Services.dll
+C:\Projects\Interview Test\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Services.pdb
+C:\Projects\Interview Test\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.DataAccess.dll
+C:\Projects\Interview Test\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\Interview Test\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.DataAccess.pdb
+C:\Projects\Interview Test\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\Interview Test\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.csproj.AssemblyReference.cache
+C:\Projects\Interview Test\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Interview Test\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.AssemblyInfoInputs.cache
+C:\Projects\Interview Test\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.AssemblyInfo.cs
+C:\Projects\Interview Test\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.csproj.CoreCompileInputs.cache
+C:\Projects\Interview Test\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.csproj.CopyComplete
+C:\Projects\Interview Test\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.dll
+C:\Projects\Interview Test\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.pdb
+C:\Projects\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Services.deps.json
+C:\Projects\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Services.dll
+C:\Projects\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Services.pdb
+C:\Projects\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.DataAccess.dll
+C:\Projects\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.DataAccess.pdb
+C:\Projects\ANZ\ANZ.Services\bin\Debug\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.csproj.AssemblyReference.cache
+C:\Projects\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.AssemblyInfoInputs.cache
+C:\Projects\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.AssemblyInfo.cs
+C:\Projects\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.csproj.CoreCompileInputs.cache
+C:\Projects\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.csproj.CopyComplete
+C:\Projects\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.dll
+C:\Projects\ANZ\ANZ.Services\obj\Debug\netcoreapp3.1\ANZ.Services.pdb

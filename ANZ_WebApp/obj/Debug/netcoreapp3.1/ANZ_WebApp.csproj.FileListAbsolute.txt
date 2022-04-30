@@ -1,0 +1,124 @@
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.exe
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.deps.json
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.runtimeconfig.json
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.runtimeconfig.dev.json
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.pdb
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.DataAccess.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.Services.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.DataAccess.pdb
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.Services.pdb
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.csproj.AssemblyReference.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.AssemblyInfoInputs.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.AssemblyInfo.cs
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.csproj.CoreCompileInputs.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\staticwebassets\ANZ_WebApp.StaticWebAssets.Manifest.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.RazorTargetAssemblyInfo.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.csproj.CopyComplete
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.pdb
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.genruntimeconfig.cache
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.exe
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.deps.json
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.runtimeconfig.json
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.runtimeconfig.dev.json
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.pdb
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.DataAccess.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.Services.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.DataAccess.pdb
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.Services.pdb
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.csproj.AssemblyReference.cache
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.AssemblyInfoInputs.cache
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.AssemblyInfo.cs
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.csproj.CoreCompileInputs.cache
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\staticwebassets\ANZ_WebApp.StaticWebAssets.Manifest.cache
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.RazorTargetAssemblyInfo.cache
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.csproj.CopyComplete
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.dll
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.pdb
+C:\Projects\Interview Test\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.genruntimeconfig.cache
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.exe
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.deps.json
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.runtimeconfig.json
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.runtimeconfig.dev.json
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ_WebApp.pdb
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.DataAccess.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.Services.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.DataAccess.pdb
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\ANZ.Services.pdb
+C:\Projects\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.csproj.AssemblyReference.cache
+C:\Projects\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.AssemblyInfoInputs.cache
+C:\Projects\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.AssemblyInfo.cs
+C:\Projects\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.csproj.CoreCompileInputs.cache
+C:\Projects\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\staticwebassets\ANZ_WebApp.StaticWebAssets.Manifest.cache
+C:\Projects\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.RazorTargetAssemblyInfo.cache
+C:\Projects\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.csproj.CopyComplete
+C:\Projects\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.dll
+C:\Projects\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.pdb
+C:\Projects\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.genruntimeconfig.cache
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Projects\ANZ\ANZ_WebApp\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Projects\ANZ\ANZ_WebApp\obj\Debug\netcoreapp3.1\ANZ_WebApp.MvcApplicationPartsAssemblyInfo.cs

@@ -1,0 +1,30 @@
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Domain\bin\Debug\netcoreapp3.1\ANZ.Domain.deps.json
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Domain\bin\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Domain\bin\Debug\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.csproj.AssemblyReference.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.AssemblyInfoInputs.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.AssemblyInfo.cs
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\dot net tutorials\xunit\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\Interview Test\ANZ\ANZ.Domain\bin\Debug\netcoreapp3.1\ANZ.Domain.deps.json
+C:\Projects\Interview Test\ANZ\ANZ.Domain\bin\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\Interview Test\ANZ\ANZ.Domain\bin\Debug\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\Interview Test\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.csproj.AssemblyReference.cache
+C:\Projects\Interview Test\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Interview Test\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.AssemblyInfoInputs.cache
+C:\Projects\Interview Test\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.AssemblyInfo.cs
+C:\Projects\Interview Test\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Interview Test\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\Interview Test\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\ANZ\ANZ.Domain\bin\Debug\netcoreapp3.1\ANZ.Domain.deps.json
+C:\Projects\ANZ\ANZ.Domain\bin\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\ANZ\ANZ.Domain\bin\Debug\netcoreapp3.1\ANZ.Domain.pdb
+C:\Projects\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.csproj.AssemblyReference.cache
+C:\Projects\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.AssemblyInfoInputs.cache
+C:\Projects\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.AssemblyInfo.cs
+C:\Projects\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.dll
+C:\Projects\ANZ\ANZ.Domain\obj\Debug\netcoreapp3.1\ANZ.Domain.pdb
