@@ -1364,9 +1364,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ANZ\\ANZ_WebApp\\ANZ_WebApp.csproj",
-      "projectName": "ANZ_WebApp",
-      "projectPath": "C:\\Projects\\ANZ\\ANZ_WebApp\\ANZ_WebApp.csproj",
+      "projectUniqueName": "C:\\Projects\\ANZ\\ANZ_WebApp\\ANZ_WebApi.csproj",
+      "projectName": "ANZ_WebApi",
+      "projectPath": "C:\\Projects\\ANZ\\ANZ_WebApp\\ANZ_WebApi.csproj",
       "packagesPath": "C:\\Users\\bikas\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\ANZ\\ANZ_WebApp\\obj\\",
       "projectStyle": "PackageReference",

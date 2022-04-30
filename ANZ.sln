@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANZ_WebApp", "ANZ_WebApp\ANZ_WebApp.csproj", "{819DBF92-ACB6-43CA-9596-FC930D892753}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANZ_WebApi", "ANZ_WebApp\ANZ_WebApi.csproj", "{819DBF92-ACB6-43CA-9596-FC930D892753}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANZ.Domain", "ANZ.Domain\ANZ.Domain.csproj", "{51C2803B-0BD6-44F9-B8BF-B7E2F347E4BB}"
 EndProject
