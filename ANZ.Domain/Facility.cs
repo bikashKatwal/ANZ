@@ -23,7 +23,7 @@ namespace ANZ.Domain
 
 		public string MaturityDate { get; set; }
 
-		public decimal Limit { get; set; }
+		public string Limit { get; set; }
 
 		#endregion
 
