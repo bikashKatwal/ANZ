@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Projects\\ANZ\\ANZ_WebApp\\ANZ_WebApp.csproj",
+  "FilePath": "c:\\Projects\\ANZ\\ANZ_WebApp\\ANZ_WebApi.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14399,7 +14399,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "ANZ_WebApp",
+  "RootNamespace": "ANZ_WebApi",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
